@@ -1,6 +1,12 @@
 # Evade With Tank
 It is a simple 2D game Made With Pygame
 
+Requirements Python3 with pygame package installed
+
+To install python3 go to https://www.python.org/ 
+
+To install pygame in terminal: pip install pygame
+
     import pygame
     from sys import exit
     
